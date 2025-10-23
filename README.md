@@ -1,2 +1,3 @@
 # resume
-課題用のリポジトリです。
+自身のresumeです。
+[X](https://x.com/masapeno)は毎日更新しています。
